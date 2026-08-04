@@ -1,0 +1,14 @@
+name: Question
+
+description: Pregunta
+
+title: "[QUESTION]: "
+
+labels:
+  - documentation
+
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Pregunta
