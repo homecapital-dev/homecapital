@@ -1,0 +1,25 @@
+name: Bug Report
+
+description: Reportar un error
+
+title: "[BUG]: "
+
+labels:
+  - bug
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción
+      placeholder: Describe el problema
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Resultado actual
