@@ -94,3 +94,28 @@ HC-003 - Git Workflow
 ### Próximo paso
 
 HC-004 - Branch Strategy.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-004 - Branch Strategy
+
+### Trabajo realizado
+
+- Se definió la estrategia oficial de ramas para HomeCapital.
+- Se documentó el flujo simplificado basado en `main` + `feature/*`.
+- Se establecieron las convenciones de nombres para ramas.
+- Se definieron reglas de protección y evolución futura hacia un flujo con `develop`.
+
+### Estado
+
+✅ HC-004 Finalizado.
+
+### Próximo paso
+
+HC-005 - Commit Convention.
