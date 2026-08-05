@@ -4,14 +4,14 @@
 
 - Estado: Sprint 0.5 en progreso
 - Sprint actual: Sprint 0.5 - Engineering Foundations
-- Issue actual: HC-007 - Code Review Checklist
+- Issue actual: HC-008 - Testing Strategy
 - Última actualización: 2026-08-04
 
 ## Avance
 
 | Área | Avance |
 |-------|---------|
-| Ingeniería | 90% |
+| Ingeniería | 100% |
 | Arquitectura | 0% |
 | Backend | 0% |
 | Frontend | 0% |

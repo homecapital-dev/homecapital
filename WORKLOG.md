@@ -169,3 +169,28 @@ HC-006 - Definition of Ready & Definition of Done
 ### Próximo paso
 
 HC-007 - Code Review Checklist.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-007 - Code Review Checklist
+
+### Trabajo realizado
+
+- Se definió el proceso oficial de revisión de código para HomeCapital.
+- Se estableció un checklist de revisión para arquitectura, backend, frontend, base de datos, seguridad, rendimiento y documentación.
+- Se definieron los niveles de severidad para las observaciones.
+- Se incorporó una guía práctica para aplicar la revisión durante los Pull Requests.
+
+### Estado
+
+✅ HC-007 Finalizado.
+
+### Próximo paso
+
+HC-008 - Testing Strategy.
