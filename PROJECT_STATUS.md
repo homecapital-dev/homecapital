@@ -4,14 +4,14 @@
 
 - Estado: Sprint 0.5 en progreso
 - Sprint actual: Sprint 0.5 - Engineering Foundations
-- Issue actual: HC-005 - Commit Convention
+- Issue actual: HC-006 - Definition of Ready & Definition of Done
 - Última actualización: 2026-08-04
 
 ## Avance
 
 | Área | Avance |
 |-------|---------|
-| Ingeniería | 65% |
+| Ingeniería | 80% |
 | Arquitectura | 0% |
 | Backend | 0% |
 | Frontend | 0% |

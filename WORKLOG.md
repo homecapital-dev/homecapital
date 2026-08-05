@@ -119,3 +119,28 @@ HC-004 - Branch Strategy
 ### Próximo paso
 
 HC-005 - Commit Convention.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-005 - Commit Convention
+
+### Trabajo realizado
+
+- Se definió la convención oficial para los mensajes de commit.
+- Se adoptó Conventional Commits como estándar.
+- Se documentaron los tipos de commit, scopes y reglas de uso.
+- Se establecieron buenas prácticas y ejemplos para mantener un historial consistente y trazable.
+
+### Estado
+
+✅ HC-005 Finalizado.
+
+### Próximo paso
+
+HC-006 - Definition of Ready & Definition of Done.
