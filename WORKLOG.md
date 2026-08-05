@@ -44,3 +44,28 @@ HC-001 - Engineering Handbook
 ### Próximo paso
 
 HC-002 - Coding Standards.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-002 - Coding Standards
+
+### Trabajo realizado
+
+- Se definieron los estándares oficiales de codificación para HomeCapital.
+- Se establecieron convenciones de nomenclatura.
+- Se documentaron las buenas prácticas para PHP, Laravel, Vue, TypeScript y PostgreSQL.
+- Se definió el checklist previo a cada commit.
+
+### Estado
+
+✅ HC-002 Finalizado.
+
+### Próximo paso
+
+HC-003 - Git Workflow.
