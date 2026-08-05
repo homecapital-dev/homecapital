@@ -144,3 +144,28 @@ HC-005 - Commit Convention
 ### Próximo paso
 
 HC-006 - Definition of Ready & Definition of Done.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-006 - Definition of Ready & Definition of Done
+
+### Trabajo realizado
+
+- Se definieron los criterios oficiales para iniciar una Issue (Definition of Ready).
+- Se establecieron los criterios mínimos para considerar una Issue como finalizada (Definition of Done).
+- Se documentaron los checklists de inicio y cierre de tareas.
+- Se formalizó el flujo de estados utilizado en GitHub Projects.
+
+### Estado
+
+✅ HC-006 Finalizado.
+
+### Próximo paso
+
+HC-007 - Code Review Checklist.
