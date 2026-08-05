@@ -4,7 +4,7 @@
 
 - Estado: Sprint 0.5 en progreso
 - Sprint actual: Sprint 0.5 - Engineering Foundations
-- Issue actual: HC-008 - Testing Strategy
+- Issue actual: HC-009 - Documentation Standards
 - Última actualización: 2026-08-04
 
 ## Avance
@@ -16,5 +16,5 @@
 | Backend | 0% |
 | Frontend | 0% |
 | Base de Datos | 0% |
-| Testing | 0% |
+| Testing | 20% |
 | DevOps | 0% |

@@ -194,3 +194,29 @@ HC-007 - Code Review Checklist
 ### Próximo paso
 
 HC-008 - Testing Strategy.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-008 - Testing Strategy
+
+### Trabajo realizado
+
+- Se definió la estrategia oficial de pruebas para HomeCapital.
+- Se establecieron los niveles de testing (Unit, Feature, Integration y E2E).
+- Se definieron las herramientas de pruebas para backend y frontend.
+- Se documentaron objetivos de cobertura, convenciones y criterios de aceptación.
+- Se creó el roadmap de implementación de la estrategia de testing.
+
+### Estado
+
+✅ HC-008 Finalizado.
+
+### Próximo paso
+
+HC-009 - Documentation Standards.
