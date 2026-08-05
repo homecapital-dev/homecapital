@@ -348,3 +348,29 @@ HC-013 - CI/CD Strategy
 ### Próximo paso
 
 HC-014 - Development Environment Setup.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-014 - Development Environment Setup
+
+### Trabajo realizado
+
+- Se definió el entorno oficial de desarrollo para HomeCapital.
+- Se documentaron las herramientas y versiones soportadas.
+- Se incluyó el proceso de instalación, configuración y ejecución del proyecto.
+- Se documentó el flujo de trabajo diario y las verificaciones iniciales.
+- Se incorporó una sección de resolución de problemas comunes.
+
+### Estado
+
+✅ HC-014 Finalizado.
+
+### Próximo paso
+
+Cierre del Sprint 0.5 y planificación del Sprint 1.
