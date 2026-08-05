@@ -322,3 +322,29 @@ HC-012 - Logging & Monitoring Guidelines
 ### Próximo paso
 
 HC-013 - CI/CD Strategy.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-013 - CI/CD Strategy
+
+### Trabajo realizado
+
+- Se definió la estrategia de Integración Continua y Despliegue Continuo para HomeCapital.
+- Se documentó el flujo de desarrollo desde la creación de una Issue hasta el despliegue.
+- Se establecieron los entornos de Development, Staging y Production.
+- Se definieron los pipelines de validación, despliegue y control de calidad.
+- Se documentaron las reglas para protección de ramas, gestión de secretos y versionado.
+
+### Estado
+
+✅ HC-013 Finalizado.
+
+### Próximo paso
+
+HC-014 - Development Environment Setup.
