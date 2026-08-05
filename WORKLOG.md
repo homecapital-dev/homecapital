@@ -245,3 +245,29 @@ HC-009 - Documentation Standards
 ### Próximo paso
 
 HC-010 - Error Handling Guidelines.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-010 - Error Handling Guidelines
+
+### Trabajo realizado
+
+- Se definieron los lineamientos oficiales para el manejo de errores y excepciones.
+- Se estableció la clasificación de errores y los códigos HTTP asociados.
+- Se documentó el formato estándar de respuestas JSON.
+- Se definieron reglas para logging, excepciones personalizadas y mensajes al usuario.
+- Se incluyeron ejemplos de aplicación práctica en HomeCapital.
+
+### Estado
+
+✅ HC-010 Finalizado.
+
+### Próximo paso
+
+HC-011 - Security Guidelines.

@@ -4,7 +4,7 @@
 
 - Estado: Sprint 0.5 en progreso
 - Sprint actual: Sprint 0.5 - Engineering Foundations
-- Issue actual: HC-010 - Error Handling Guidelines
+- Issue actual: HC-011 - Security Guidelines
 - Última actualización: 2026-08-04
 
 ## Avance
