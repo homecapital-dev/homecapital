@@ -11,7 +11,7 @@
 
 | Área | Avance |
 |-------|---------|
-| Ingeniería | 10% |
+| Ingeniería | 20% |
 | Arquitectura | 0% |
 | Backend | 0% |
 | Frontend | 0% |
@@ -21,8 +21,14 @@
 
 ## Último Sprint
 
-Sprint 0 - Foundation ✅
+Sprint 0 - Engineering Foundations ✅
 
 ## Próximo Sprint
 
 Sprint 0.5 - Engineering Handbook
+
+## Sprint actual:
+Sprint 0.5 - Engineering Foundations
+
+## Issue actual:
+HC-002 - Coding Standards
