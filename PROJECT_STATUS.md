@@ -4,7 +4,7 @@
 
 - Estado: Sprint 0.5 en progreso
 - Sprint actual: Sprint 0.5 - Engineering Foundations
-- Issue actual: HC-009 - Documentation Standards
+- Issue actual: HC-010 - Error Handling Guidelines
 - Última actualización: 2026-08-04
 
 ## Avance
@@ -18,3 +18,4 @@
 | Base de Datos | 0% |
 | Testing | 20% |
 | DevOps | 0% |
+| Documentación | 20% |

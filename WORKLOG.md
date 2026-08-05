@@ -220,3 +220,28 @@ HC-008 - Testing Strategy
 ### Próximo paso
 
 HC-009 - Documentation Standards.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-009 - Documentation Standards
+
+### Trabajo realizado
+
+- Se definió el estándar oficial para la documentación técnica de HomeCapital.
+- Se establecieron reglas de estructura, nomenclatura y versionado.
+- Se documentaron convenciones para diagramas, tablas, bloques de código e imágenes.
+- Se incorporaron ejemplos prácticos para la documentación de módulos, APIs y bases de datos.
+
+### Estado
+
+✅ HC-009 Finalizado.
+
+### Próximo paso
+
+HC-010 - Error Handling Guidelines.
