@@ -69,3 +69,28 @@ HC-002 - Coding Standards
 ### Próximo paso
 
 HC-003 - Git Workflow.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-003 - Git Workflow
+
+### Trabajo realizado
+
+- Se definió el flujo de trabajo oficial con Git y GitHub.
+- Se documentó la estrategia de ramas.
+- Se estableció el proceso para Pull Requests y revisiones.
+- Se definieron buenas prácticas y restricciones para el uso de Git.
+
+### Estado
+
+✅ HC-003 Finalizado.
+
+### Próximo paso
+
+HC-004 - Branch Strategy.
