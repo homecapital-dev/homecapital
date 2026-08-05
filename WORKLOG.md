@@ -271,3 +271,29 @@ HC-010 - Error Handling Guidelines
 ### Próximo paso
 
 HC-011 - Security Guidelines.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-011 - Security Guidelines
+
+### Trabajo realizado
+
+- Se definió la política oficial de seguridad para HomeCapital.
+- Se documentaron principios de Security by Design y Defense in Depth.
+- Se establecieron lineamientos para autenticación, autorización, validación de entradas y gestión de secretos.
+- Se incorporaron controles alineados con OWASP Top 10 y buenas prácticas de Laravel.
+- Se creó un checklist de seguridad para revisar nuevas funcionalidades antes de su integración.
+
+### Estado
+
+✅ HC-011 Finalizado.
+
+### Próximo paso
+
+HC-012 - Logging & Monitoring Guidelines.
