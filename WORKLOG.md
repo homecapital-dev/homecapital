@@ -297,3 +297,28 @@ HC-011 - Security Guidelines
 ### Próximo paso
 
 HC-012 - Logging & Monitoring Guidelines.
+
+## 2026-08-04
+
+### Sprint
+
+Sprint 0.5 - Engineering Foundations
+
+### Issue
+
+HC-012 - Logging & Monitoring Guidelines
+
+### Trabajo realizado
+
+- Se definió la estrategia de logging, auditoría y monitoreo para HomeCapital.
+- Se establecieron los niveles de logging, eventos auditables y formato estándar de los registros.
+- Se incorporó el uso de Request ID para trazabilidad.
+- Se documentó un roadmap para la integración futura con herramientas de observabilidad.
+
+### Estado
+
+✅ HC-012 Finalizado.
+
+### Próximo paso
+
+HC-013 - CI/CD Strategy.
