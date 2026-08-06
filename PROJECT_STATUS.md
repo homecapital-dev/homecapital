@@ -7,6 +7,10 @@
 - Issue actual: HC-101 - Laravel Project Initialization
 - Última actualización: 2026-08-05
 
+### Observaciones
+
+- Se adoptó una arquitectura Monorepo para mejorar la escalabilidad y separar claramente las aplicaciones del ecosistema HomeCapital.
+
 ## Avance
 
 | Área | Avance |

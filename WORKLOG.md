@@ -394,6 +394,12 @@ HC-101 - Laravel Project Initialization
 - Se verificó el funcionamiento inicial de la aplicación.
 - Se realizaron las pruebas básicas del framework.
 
+### Actividad adicional
+
+- Se reorganizó la estructura del repositorio siguiendo un enfoque **Monorepo**.
+- Se reemplazó la carpeta `backend/` por `apps/api/` como ubicación oficial del backend Laravel.
+- Se preparó el repositorio para incorporar futuras aplicaciones (`apps/web`, `apps/mobile`) y paquetes compartidos (`packages/`).
+
 ### Estado
 
 🚧 En progreso.
