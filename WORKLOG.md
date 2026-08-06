@@ -374,3 +374,30 @@ HC-014 - Development Environment Setup
 ### Próximo paso
 
 Cierre del Sprint 0.5 y planificación del Sprint 1.
+
+## 2026-08-05
+
+### Sprint
+
+Sprint 1 - Foundation
+
+### Issue
+
+HC-101 - Laravel Project Initialization
+
+### Trabajo realizado
+
+- Se creó el proyecto base en Laravel 13.
+- Se instalaron las dependencias del backend y frontend.
+- Se configuró el archivo `.env`.
+- Se preparó la conexión a PostgreSQL.
+- Se verificó el funcionamiento inicial de la aplicación.
+- Se realizaron las pruebas básicas del framework.
+
+### Estado
+
+🚧 En progreso.
+
+### Próximo paso
+
+HC-102 - Base Project Configuration.
